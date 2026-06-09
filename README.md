@@ -58,7 +58,7 @@ Tested with **Python 3.12**. Phase 1 uses TensorFlow/Keras and BrainChip's
 
 | Dataset | How to get it | Notes |
 |---|---|---|
-| **Fraunhofer IIS Warehouse** | See https://www.kaggle.com/datasets/aftabhussaincui/warehouse-objects-dataset and  orginal source: https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt/warehouse.html (#) (Löffler et al., 2018) | Subset of 13,187 images, 5 scene classes. Resized to 160×160 RGB. **Not redistributed here** — obtain from the source per its license. |
+| **Fraunhofer IIS Warehouse** | See https://www.kaggle.com/datasets/aftabhussaincui/warehouse-objects-dataset and  orginal source: https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt/warehouse.html (Löffler et al., 2018) | Subset of 13,187 images, 5 scene classes. Resized to 160×160 RGB. **Not redistributed here** — obtain from the source per its license. |
 | **MNIST-5 / CIFAR-10-5** | Downloaded automatically | First 5 classes only; `tensorflow.keras.datasets` fetches them. |
 
 The Phase 1 notebook downloads the warehouse subset from Kaggle automatically
