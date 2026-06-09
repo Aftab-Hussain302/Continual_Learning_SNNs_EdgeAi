@@ -17,7 +17,8 @@ incremental adaptation on BrainChip Akida hardware.
 >   software backend** (CPU), so the federated pipeline is still reproducible —
 >   only the on-chip power/timing numbers require the physical device.
 
-[![Open In Colab] https://colab.research.google.com/drive/1f3sjRuNkAcwQFdbFbyrPISaOX5_qdqep?usp=sharing
+Open In Colab : https://colab.research.google.com/drive/1f3sjRuNkAcwQFdbFbyrPISaOX5_qdqep?usp=sharing
+Open in Kaggle: https://www.kaggle.com/code/aftabhussaincui/continual-incremental-learning-with-spiking-neural
 
 ---
 
