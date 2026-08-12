@@ -147,14 +147,15 @@ This regenerates `fig_convergence_cross_dataset`, `fig_perclass_all_datasets`
 
 ## Citation
 
-If you use this code or build on it, please cite:
+If you use this code in your research, please cite:
 
 ```bibtex
 @inproceedings{hussain2026snnneuroedge,
-  title     = {SNN-NeuroEdge: Federated Continual Learning on Neuromorphic Edge},
   author    = {Hussain, Aftab and Ferscha, Alois},
-  booktitle = {Proc. International Conference on Artificial Neural Networks (ICANN)},
-  year      = {2026}
+  title     = {{SNN-NeuroEdge}: Federated Continual Learning on Neuromorphic Edge},
+  booktitle = {Proceedings of the 13th IEEE International Conference on Intelligent Systems (IS'26)},
+  year      = {2026},
+  note      = {To appear}
 }
 ```
 
